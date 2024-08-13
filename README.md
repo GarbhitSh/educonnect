@@ -1,4 +1,4 @@
-## educonnect
+## Educonnect
 "EduConnect" is a web-based project designed to address these issues, providing a holistic platform that fosters effective learning, promotes community engagement, and ensures access to education for all.
 
 ## Key Features:
